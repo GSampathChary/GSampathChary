@@ -2,7 +2,7 @@
 
 ### AI Engineer | Backend Engineer | Applied Machine Learning
 
-I’m an AI Engineer and Full Stack Developer with **1.8+ years of professional experience** building AI-enabled applications, backend services, and machine learning solutions.
+I’m an AI Engineer and Full Stack Developer with **1.10+ years of professional experience** building AI-enabled applications, backend services, and machine learning solutions.
 
 Currently working at **ICAR – Indian Institute of Rice Research**, where I work on AI-powered agricultural applications involving **machine learning, computer vision, backend services, mobile applications, and production deployment**.
 
