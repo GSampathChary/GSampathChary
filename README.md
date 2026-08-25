@@ -68,6 +68,16 @@ AI-powered agricultural application developed at ICAR–Indian Institute of Rice
 
 ---
 
+### 🏠 VistaraAI – PVC Interior Design Assistant
+
+AI-powered full-stack platform for PVC kitchen cupboards, wardrobes, TV units, and custom interiors.
+
+**Technologies:** Next.js • TypeScript • React • FastAPI • Python • LangChain • LangGraph • PostgreSQL • Docker
+
+🔗 [Live Demo](https://vistara-ai-pvc-interior-studio-xi.vercel.app/)
+
+---
+
 ### 🌾 RiceGPT AI
 
 AI-powered conversational assistant focused on rice agriculture and crop-related queries.
