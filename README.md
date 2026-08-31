@@ -78,6 +78,16 @@ AI-powered full-stack platform for PVC kitchen cupboards, wardrobes, TV units, a
 
 ---
 
+### 🇮🇳 BharatEye – India GeoAI Intelligence & Earth Observation Platform
+
+India-focused geospatial intelligence platform for satellite-data visualization, disaster monitoring, risk assessment, real-time intelligence events, and large-scale geospatial analytics.
+
+**Technologies:** React • TypeScript • Mapbox GL JS • Deck.gl • FastAPI • Python • PostgreSQL • PostGIS • Redis • WebSocket • GeoJSON • GeoAI • Docker
+
+🔗 [Live Demo](https://bharat-eye.vercel.app/)
+
+---
+
 ### 🌾 RiceGPT AI
 
 AI-powered conversational assistant focused on rice agriculture and crop-related queries.
