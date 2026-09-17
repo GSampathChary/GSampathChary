@@ -68,6 +68,16 @@ AI-powered agricultural application developed at ICAR–Indian Institute of Rice
 
 ---
 
+### 📊 InsightBI AI – AI-Powered Business Intelligence & Analytics Platform
+
+End-to-end business intelligence platform for sales analytics, customer segmentation, product performance, forecasting, data uploads, and natural-language AI insights.
+
+**Technologies:** Next.js • React • TypeScript • FastAPI • Python • PostgreSQL • Power BI • Docker • Recharts • AI Copilot • ETL • RFM Analytics
+
+🔗 [Live Demo](https://insight-bi-ai-beta.vercel.app/)
+
+---
+
 ### 🏠 VistaraAI – PVC Interior Design Assistant
 
 AI-powered full-stack platform for PVC kitchen cupboards, wardrobes, TV units, and custom interiors.
