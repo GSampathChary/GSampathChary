@@ -24,7 +24,7 @@ Currently working at **ICAR – Indian Institute of Rice Research**, where I wor
 ## 🛠️ Tech Stack
 
 ### Programming
-![Python](https://www.python.org/)
+![Python]([https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white))
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
