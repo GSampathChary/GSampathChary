@@ -34,7 +34,7 @@ Currently working at **ICAR – Indian Institute of Rice Research**, where I wor
 
 ### AI / Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Computer Vision • Deep Learning • Image Classification • Transfer Learning • Data Augmentation • Model Evaluation • TensorFlow Lite**
