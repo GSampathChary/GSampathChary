@@ -48,7 +48,7 @@ Currently working at **ICAR – Indian Institute of Rice Research**, where I wor
 **REST APIs • Microservices • Backend Integration • API Development**
 
 ### Application Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 **Flutter • Dart • AI Application Integration**
 
